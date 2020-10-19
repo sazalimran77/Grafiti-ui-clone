@@ -158,6 +158,9 @@ a:hover{
 	padding: 50px 50px;
 	color: #fff;
 }
+.footer_section .row{
+	justify-content: space-between;
+}
 .footer_section h4{
 	font-size: 14px;
 	color: #fff;
@@ -352,7 +355,7 @@ a:hover{
 		.home_page_right{
 			display: none;
 		}
-		.sign_up{
-			margin-left: 77%;
+		.sign_up {
+    	margin-left: 80%;
 		}
 	}

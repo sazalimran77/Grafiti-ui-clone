@@ -82,6 +82,7 @@ a:hover{
 	font-size: 120px;
 	color: #ffbf87;
 	margin-top: -30px;
+	padding-right: 5px;
 }
 .quality_info h1 span{
 	display: block;
@@ -126,6 +127,9 @@ a:hover{
 	background: #3066b0;
 	padding: 50px 50px;
 	color: #fff;
+}
+.footer_section .row{
+	justify-content: space-between;
 }
 .footer_section h4{
 	font-size: 14px;
@@ -301,7 +305,7 @@ a:hover{
 	.footer_section{
 		padding: 50px 15px;
 	}
-	.sign_up{
-		margin-left: 82%;
+	.sign_up {
+    	margin-left: 80%;
 	}
 }

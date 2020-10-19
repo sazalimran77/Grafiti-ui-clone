@@ -312,6 +312,9 @@ a:hover{
 	padding: 50px 40px;
 	color: #fff;
 }
+.footer_section .row{
+	justify-content: space-between;
+}
 .footer_section h4{
 	font-size: 14px;
 	color: #fff;
@@ -633,6 +636,9 @@ a:hover{
 	}
 	.quality_info_txt .section_title{
 		margin-top: 0;
+	}
+	.sign_up {
+    	margin-left: 80%;
 	}
 
 }
